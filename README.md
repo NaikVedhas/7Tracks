@@ -1,5 +1,4 @@
-
-#  <img src="https://github.com/NaikVedhas/l/blob/main/frontend/public/logo.png?raw=true" alt="7 Tracks Logo" width="450" height="150"> 
+# <img src="https://github.com/NaikVedhas/7Tracks/blob/main/logo.svg" alt="7 Tracks Logo" width="50" height="50" style="vertical-align: middle;">  <span style="vertical-align: middle;">7 Tracks</span>
 
 ## 🚀 Overview  
 7 Tracks is a next-gen music streaming platform bringing power back to artists and users through Web3!  
@@ -102,15 +101,6 @@ TanStack Query provides exceptional scalability benefits:
 - 🚀 **Reduced Server Load**: Intelligent caching minimizes redundant API calls  
 - ⏱️ **Stale-While-Revalidate Pattern**: Shows cached data instantly while fetching updates  
 - 🔄 **Automatic Query Invalidation**: Ensures data consistency across components  
-
----
-
-## 🔮 Future Enhancements  
-- 📈 Content analytics dashboard  
-- ✨ Premium subscription features  
-- 🎯 Payment gateways  
-- 📱 Mobile-first responsive design  
-- 🎤 Live artist sessions powered by Web3  
 
 ---
 
