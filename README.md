@@ -1,16 +1,15 @@
-# <img src="https://github.com/NaikVedhas/7Tracks/blob/main/image-removebg-preview.png" height="450" width="450" />
+# <img src="https://github.com/NaikVedhas/7Tracks/blob/main/image-removebg-preview.png" height="550" width="550" />
 
 ## 🚀 Overview  
 7 Tracks is a next-gen music streaming platform bringing power back to artists and users through Web3!  
 
 ⚠️ **Please Note**: This project is **not open source**. The codebase is private and not intended for public contribution or redistribution.  
 
----
+
 
 ## 🌐 Live Demo  
 [✨ View Live Project](https://7tracks.vercel.app)  
 
----
 
 ## 🖥️ UI Preview Showcase  
 <div align="center">
