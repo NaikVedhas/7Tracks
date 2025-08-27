@@ -1,4 +1,7 @@
-# <img src="https://github.com/NaikVedhas/7Tracks/blob/main/logo.svg" alt="7 Tracks Logo" width="90" height="90" style="vertical-align: middle;"> <span style="font-size:90px; vertical-align: middle;">7 Tracks</span>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NaikVedhas/7Tracks/main/logo.svg" height="90" />
+  <span><font size="9">7 Tracks</font></span>
+</p>
 
 ## 🚀 Overview  
 7 Tracks is a next-gen music streaming platform bringing power back to artists and users through Web3!  
