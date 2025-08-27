@@ -103,6 +103,8 @@ TanStack Query provides exceptional scalability benefits:
 
 ---
 
+### Acknowledgement: Special thanks to [Sanika Deshmukh](https://github.com/sanikad20) for her valuable inputs in refining the design aspects of the project.
+
 <p align="center">
   🌟 <strong>Designed & Developed by Vedhas Naik</strong> 🌟  
 </p>
