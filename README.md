@@ -24,10 +24,18 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/LinkedIn/blob/main/frontend/public/5.png?raw=true" alt="Profile Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss3.png" alt="Profile Dark Theme" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/LinkedIn/blob/main/frontend/public/4.png?raw=true" alt="Messaging Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss4.png" alt="Messaging Dark Theme" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss5.png" alt="Profile Dark Theme" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss6.png" alt="Messaging Dark Theme" width="100%" />
     </td>
   </tr>
 </table>
