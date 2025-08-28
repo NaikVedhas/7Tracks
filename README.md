@@ -16,7 +16,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss1.png" alt="Login Screen Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss3.png" alt="Login Screen Dark Theme" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss2.png" alt="Feed Dark Theme" width="100%" />
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss3.png" alt="Profile Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss1.png" alt="Profile Dark Theme" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/NaikVedhas/BuzzedUp/blob/main/Project/public/ss4.png" alt="Messaging Dark Theme" width="100%" />
