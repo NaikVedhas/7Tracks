@@ -8,7 +8,7 @@
 
 
 ## 🌐 Live Demo  
-[✨ View Live Project](https://7tracks.vercel.app)  
+[✨ View Live Project](https://7tracks.pages.dev)  
 
 
 ## 🖥️ UI Preview Showcase  
