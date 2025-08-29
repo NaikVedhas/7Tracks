@@ -27,7 +27,7 @@ function App() {
           Go to 7Tracks →
         </a>
 
-        <div className="pt-6 border-t border-gray-700 text-gray-500 text-xs sm:text-sm">
+        <div className="pt-6 border-t border-gray-700 text-gray-500 text-xs  sm:text-sm">
           © {new Date().getFullYear()} 7 Tracks. All rights reserved.
         </div>
       </div>
