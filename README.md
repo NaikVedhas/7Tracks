@@ -16,26 +16,26 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss3.png" alt="Login Screen Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss3.png?raw=true" alt="Login Screen Dark Theme" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss2.png" alt="Feed Dark Theme" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss1.png" alt="Profile Dark Theme" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss4.png" alt="Messaging Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss2.png?raw=true" alt="Feed Dark Theme" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss5.png" alt="Profile Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss1.png?raw=true" alt="Profile Dark Theme" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss6.png" alt="Messaging Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss4.png?raw=true" alt="Messaging Dark Theme" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss5.png?raw=true" alt="Profile Dark Theme" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss6.png?raw=true" alt="Messaging Dark Theme" width="100%" />
     </td>
   </tr>
 </table>
