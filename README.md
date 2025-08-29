@@ -4,9 +4,6 @@
 7 Tracks is a next-gen music streaming platform bringing power back to artists and users through Web3! 
 This is the V2 of Tune~Trax
 
-⚠️ **Please Note**: This project is **not open source**. The codebase is private and not intended for public contribution or redistribution.  
-
-
 
 ## 🌐 Live Demo  
 [✨ View Live Project](https://7tracks.pages.dev)  
@@ -41,6 +38,10 @@ This is the V2 of Tune~Trax
   </tr>
 </table>
 </div>  
+
+
+⚠️ **Please Note**: This project is **not open source**. The codebase is private and not intended for public contribution or redistribution.  
+
 
 ---
 
