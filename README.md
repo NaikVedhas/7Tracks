@@ -1,7 +1,8 @@
 # <img src="https://github.com/NaikVedhas/7Tracks/blob/main/Logo.png" height="550" width="550" />
 
 ## 🚀 Overview  
-7 Tracks is a next-gen music streaming platform bringing power back to artists and users through Web3!  
+7 Tracks is a next-gen music streaming platform bringing power back to artists and users through Web3! 
+This is the V2 of Tune~Trax
 
 ⚠️ **Please Note**: This project is **not open source**. The codebase is private and not intended for public contribution or redistribution.  
 
