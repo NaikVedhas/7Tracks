@@ -1,4 +1,4 @@
-# <img src="https://github.com/NaikVedhas/7Tracks/blob/main/Logo.png" height="550" width="550" />
+# <img src="https://github.com/NaikVedhas/7Tracks/blob/main/App/public/Logo.png" height="550" width="550" />
 
 ## 🚀 Overview  
 7 Tracks is a next-gen music streaming platform bringing power back to artists and users through Web3! 
@@ -17,26 +17,26 @@ This is the V2 of Tune~Trax
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss3.png?raw=true" alt="Login Screen Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/App/public/ss3.png?raw=true" alt="Login Screen Dark Theme" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss2.png?raw=true" alt="Feed Dark Theme" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss1.png?raw=true" alt="Profile Dark Theme" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss4.png?raw=true" alt="Messaging Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/App/public/ss2.png?raw=true" alt="Feed Dark Theme" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss5.png?raw=true" alt="Profile Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/App/public/ss1.png?raw=true" alt="Profile Dark Theme" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/ss6.png?raw=true" alt="Messaging Dark Theme" width="100%" />
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/App/public/ss4.png?raw=true" alt="Messaging Dark Theme" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/App/public/ss5.png?raw=true" alt="Profile Dark Theme" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/NaikVedhas/7Tracks/blob/main/App/public/ss6.png?raw=true" alt="Messaging Dark Theme" width="100%" />
     </td>
   </tr>
 </table>
