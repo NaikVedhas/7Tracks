@@ -118,7 +118,10 @@ Acknowledgement: Special thanks to [Sanika Deshmukh](https://github.com/sanikad2
   🌟 <strong>Designed & Developed by Vedhas Naik</strong> 🌟  
 </p>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Designed%20&%20Developed%20by%20Vedhas%20Naik&width=800&height=100" />
-</p>
+Acknowledgement:  
+<sub><sup>Special thanks to</sup></sub> [Sanika Deshmukh](https://github.com/sanikad20)  
+for her valuable inputs in refining the design aspects of the project.
 
+<p align="center">
+  🌟 <strong><sub>DESIGNED & DEVELOPED BY VEDHAS NAIK</sub></strong> 🌟  
+</p>
