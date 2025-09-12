@@ -118,3 +118,7 @@ Acknowledgement: Special thanks to [Sanika Deshmukh](https://github.com/sanikad2
   🌟 <strong>Designed & Developed by Vedhas Naik</strong> 🌟  
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Designed%20&%20Developed%20by%20Vedhas%20Naik&width=800&height=100" />
+</p>
+
