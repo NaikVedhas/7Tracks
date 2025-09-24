@@ -9,7 +9,7 @@ function App() {
 
         <p className="text-base sm:text-lg leading-relaxed">
           This domain{" "}
-          <span className="font-semibold">7tracks.vercel.app</span> is officially
+          <span className="font-semibold">7tracks.pages.dev</span> is officially
           registered and owned by{" "}
           <span className="font-semibold text-purple-500">Vedhas Naik</span>!
         </p>
@@ -19,7 +19,7 @@ function App() {
         </p>
 
         <a
-          href="https://7tracks.pages.dev"
+          href="https://7tracks.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-5 sm:px-6 -3 hover:underline hover:text-purple-500 text-white rounded-xl font-medium shadow-md transition transform "
