@@ -6,7 +6,7 @@ This is the V2 of Tune~Trax
 
 
 ## 🌐 Live Demo  
-[✨ View Live Project](https://7tracks.pages.dev)  
+[✨ View Live Project](https://7tracks.vercel.app)  
 
 
 ## 🖥️ UI Preview Showcase  
