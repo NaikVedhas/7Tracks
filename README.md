@@ -112,9 +112,9 @@ TanStack Query provides exceptional scalability benefits:
 - 🔄 **Automatic Query Invalidation**: Ensures data consistency across components  
 
 ---
-Acknowledgement: Special thanks to [Sanika Deshmukh](https://github.com/sanikad20) for her valuable inputs in refining the design aspects of the project.
+Acknowledgement: 
+Special thanks to [Sanika Deshmukh](https://github.com/sanikad20) for her valuable inputs in refining the design aspects of the project.
 
 <p align="center">
-  🌟 <strong>Designed & Developed by Vedhas Naik</strong> 🌟  
+   <strong>🌟Designed & Developed by Vedhas Naik🌟</strong>   
 </p>
-
